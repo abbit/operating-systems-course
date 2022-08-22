@@ -1,0 +1,206 @@
+Philosopher 0 sitting down to dinner.
+Philosopher 0: get dish 49.
+Philosopher 2 sitting down to dinner.
+Philosopher 2: get dish 48.
+Philosopher 2: got left fork 3
+Philosopher 2: got right fork 2
+Philosopher 2: eating.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 1 sitting down to dinner.
+Philosopher 1: get dish 47.
+Philosopher 3 sitting down to dinner.
+Philosopher 3: get dish 46.
+Philosopher 3: got left fork 4
+Philosopher 4 sitting down to dinner.
+Philosopher 4: get dish 45.
+Philosopher 0: get dish 44.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 2: get dish 43.
+Philosopher 2: got left fork 3
+Philosopher 2: got right fork 2
+Philosopher 2: eating.
+Philosopher 0: get dish 42.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 2: get dish 41.
+Philosopher 2: got left fork 3
+Philosopher 2: got right fork 2
+Philosopher 2: eating.
+Philosopher 0: get dish 40.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 2: get dish 39.
+Philosopher 2: got left fork 3
+Philosopher 2: got right fork 2
+Philosopher 2: eating.
+Philosopher 0: get dish 38.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 2: get dish 37.
+Philosopher 2: got left fork 3
+Philosopher 2: got right fork 2
+Philosopher 2: eating.
+Philosopher 0: get dish 36.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 2: get dish 35.
+Philosopher 2: got left fork 3
+Philosopher 2: got right fork 2
+Philosopher 2: eating.
+Philosopher 0: get dish 34.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 2: get dish 33.
+Philosopher 2: got left fork 3
+Philosopher 2: got right fork 2
+Philosopher 2: eating.
+Philosopher 0: get dish 32.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 2: get dish 31.
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 1: got left fork 2
+Philosopher 3: get dish 30.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 0: get dish 29.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 3: get dish 28.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 0: get dish 27.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 3: get dish 26.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 0: get dish 25.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 3: get dish 24.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 0: get dish 23.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 3: get dish 22.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 0: get dish 21.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 3: get dish 20.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 0: get dish 19.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 3: get dish 18.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 0: get dish 17.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 3: get dish 16.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 0: get dish 15.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 3: get dish 14.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 0: get dish 13.
+Philosopher 1: got right fork 1
+Philosopher 1: eating.
+Philosopher 1: get dish 12.
+Philosopher 1: got left fork 2
+Philosopher 1: got right fork 1
+Philosopher 1: eating.
+Philosopher 3: get dish 11.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 1: get dish 10.
+Philosopher 1: got left fork 2
+Philosopher 1: got right fork 1
+Philosopher 1: eating.
+Philosopher 3: get dish 9.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 1: get dish 8.
+Philosopher 1: got left fork 2
+Philosopher 1: got right fork 1
+Philosopher 1: eating.
+Philosopher 3: get dish 7.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 1: get dish 6.
+Philosopher 1: got left fork 2
+Philosopher 1: got right fork 1
+Philosopher 1: eating.
+Philosopher 3: get dish 5.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 1: get dish 4.
+Philosopher 1: got left fork 2
+Philosopher 1: got right fork 1
+Philosopher 1: eating.
+Philosopher 3: get dish 3.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 1: get dish 2.
+Philosopher 1: got left fork 2
+Philosopher 1: got right fork 1
+Philosopher 1: eating.
+Philosopher 3: get dish 1.
+Philosopher 3: got left fork 4
+Philosopher 3: got right fork 3
+Philosopher 3: eating.
+Philosopher 1 is done eating.
+Philosopher 0: got left fork 1
+Philosopher 0: got right fork 0
+Philosopher 0: eating.
+Philosopher 3 is done eating.
+Philosopher 4: got right fork 4
+Philosopher 2: got left fork 3
+Philosopher 2: got right fork 2
+Philosopher 2: eating.
+Philosopher 0 is done eating.
+Philosopher 4: got left fork 0
+Philosopher 4: eating.
+Philosopher 2 is done eating.
+Philosopher 4 is done eating.
